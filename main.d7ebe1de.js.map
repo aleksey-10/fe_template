@@ -1,0 +1,1 @@
+{"version":3,"sources":["script/main.js"],"names":["window","alert"],"mappings":";AAAA,aAEAA,OAAOC,MAAM","file":"main.d7ebe1de.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\nwindow.alert('hi');\n"]}
