@@ -1,7 +1,5 @@
 # FE Template
 
-- use this template
-- npm i
-- npm start
+[DEMO](https://aleksey-10.github.io/{repo-name}/)
 
 To use linter correctly use plugins: ESLint, LintHTML, stylelint.
